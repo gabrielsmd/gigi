@@ -1,0 +1,22 @@
+
+#conteudo {
+    WIDTH: 100%;
+    BACKGROUND: lavender;
+    HEIGHT: 100%;
+    POSITION: fixed;
+    TOP: 0;
+    LEFT: 0;
+    PADDING: 10PX;
+    text-align: center;
+}
+
+.btn {
+background: black;
+color: white;
+border: none;
+padding: 10px;
+width: 80px;
+border-radius: 10px;
+
+}
+
